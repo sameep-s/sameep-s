@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sameep-s
-- 👀 I’m interested in React, Redux, HTML/CSS, JAVASCRIPT, NODE, Etc.
+- 👀 I’m interested in React, Redux, HTML/CSS, JAVASCRIPT, Tailwind etc.
 - 🌱 I’m currently learning FULL SRACK DEVELOPMENT...
 - 💞️ I’m looking to collaborate on FRONT-END, WEB-DEVELOPMENT PROJECTS...
 - 📫 How to reach me: https://twitter.com/_sameep_
